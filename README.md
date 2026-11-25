@@ -38,6 +38,7 @@ Its visual identity draws inspiration from Roblox Studio, retro computer interfa
 The latest version is **Studio-OS 1.4.0**.
 
 Download the macOS PKG installer from the Releases section of this repository.
+
  ![Releases Page](https://github.com/xsoul9-1/Studio-OS/releases)
 
 ## Installation
