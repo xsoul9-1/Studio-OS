@@ -2,7 +2,7 @@
 
 **Your Mac. A different experience.**
 
-![Studio-OS Desktop](assets/desktop.png)
+![Studio-OS Desktop](Desktop.png)
 
 Studio-OS is an independent, immersive, keyboard-driven desktop environment designed for macOS.
 
@@ -27,15 +27,11 @@ Its visual identity draws inspiration from Roblox Studio, retro computer interfa
 
 ### Desktop
 
-![Desktop](assets/desktop.png)
-
-### File Manager
-
-![File Manager](assets/file-manager.png)
+![Desktop](Desktop.png)
 
 ### Standby Mode
 
-![Standby](assets/standby.png)
+![Standby](Standby.png)
 
 ## Download
 
